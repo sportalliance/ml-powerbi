@@ -5,7 +5,7 @@ Magicline's Enterprise Data Warehouse.
 See [documentation of Enterprise Data Warehouse](https://data-warehouse-docs.magicline.com/) for more information.
 
 ## Get started
-1. Download the showcase [report template](powerbi_showcase.pbit).
+1. Download the showcase [report template](powerbi_showcase.pbit) (or any other `.pbit` file).
 2. Run using [Power BI Desktop](https://powerbi.microsoft.com/).
 3. On opening a warning is displayed, that is due to a parameterized connection setting 
 and can be safely ignored. Click `OK`.  
